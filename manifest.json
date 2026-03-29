@@ -2,7 +2,7 @@
   "name": "PointOS",
   "short_name": "PointOS",
   "description": "Gamify your life with points",
-  "start_url": "/index.html",
+  "start_url": "/Pointos/index.html",
   "display": "standalone",
   "background_color": "#0d0d14",
   "theme_color": "#0d0d14",
